@@ -1,5 +1,5 @@
 # Travel Guru
-### A Web Application for Travelars
+### A Web Application for Travelers
 ### [Live Site](https://travel-guru-807b6.web.app/)
 
 
